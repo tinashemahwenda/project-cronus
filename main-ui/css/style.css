@@ -42,3 +42,6 @@ h6 {
 .navbar-brand img{
   height: 60px;
 }
+.container-card{
+    padding-top: 6em;
+}
