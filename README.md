@@ -1,2 +1,2 @@
-# project-iris
+# project-cronus
  Sploramart first UI prototype
